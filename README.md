@@ -1,4 +1,6 @@
 # Hey there 👋
+
+📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```txt
