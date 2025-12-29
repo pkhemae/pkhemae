@@ -2,8 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   38 mins         ████████████████████████▒   97.88 %
-CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
