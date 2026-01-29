@@ -2,9 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go       9 mins          ██████████████▒░░░░░░░░░░   56.78 %
-Python   5 mins          ████████▒░░░░░░░░░░░░░░░░   32.82 %
-TeX      1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
