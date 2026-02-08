@@ -1,8 +1,10 @@
-### Weekly development breakdown 📊
-<!--START_SECTION:waka-->
+# Hello there 👋
 
-```txt
-No activity tracked
-```
+My name is **Khémara Parc**.
 
-<!--END_SECTION:waka-->
+## Tech I use
+[![My Skills](https://skillicons.dev/icons?i=vim,c,git)](https://skillicons.dev)
+
+## Connect with me
+
+- [LinkedIn](https://linkedin.com/in/khemaraparc)
